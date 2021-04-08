@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FloriansCode
-- 📫 How to reach me info@florianauschra or instagram: florian.png
+- 📫 You can reach me at info@florianauschra or on instagram: florian.png
 
 <!---
 FloriansCode/FloriansCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
